@@ -12,3 +12,15 @@ find the sum of the even-valued terms.
 */
 import UIKit
 
+
+
+
+func fibonacciEvenSum() {
+    
+    var sum = 0
+    
+    repeat{
+
+        
+    } while sum<4000000
+}
